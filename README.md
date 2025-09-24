@@ -1,6 +1,6 @@
 # RM Studio ExpressJS Template
 
-This template provides a minimal Express + MongoDB setup with common utilities pre-configured.
+This template provides a minimal Express + MongoDB setup with common utilities pre-configured, by RM Studios.
 
 ## Features
 
@@ -16,16 +16,16 @@ This template provides a minimal Express + MongoDB setup with common utilities p
 
 Create a `.env` file in the root with the following values:
 
-MONGO_URL=your_mongo_connection_string
-ACCESS_TOKEN_SECRET=your_access_secret
-REFRESH_TOKEN_SECRET=your_refresh_secret
-CLOUD_NAME=your_cloudinary_name
-CLOUD_KEY=your_cloudinary_key
-CLOUD_SECRET=your_cloudinary_secret
-NODE_ENV=development
-EMAIL= your_email
-EMAIL_APP_PASSWORD= your_email_password
-EMAIL_HOST= your_email_host
+- MONGO_URL=your_mongo_connection_string
+- ACCESS_TOKEN_SECRET=your_access_secret
+- REFRESH_TOKEN_SECRET=your_refresh_secret
+- CLOUD_NAME=your_cloudinary_name
+- CLOUD_KEY=your_cloudinary_key
+- CLOUD_SECRET=your_cloudinary_secret
+- NODE_ENV=development
+- EMAIL= your_email
+- EMAIL_APP_PASSWORD= your_email_password
+- EMAIL_HOST= your_email_host
 
 ## Getting Started
 
